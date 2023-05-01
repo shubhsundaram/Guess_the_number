@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    printf("This is a small game of guessing random numbers\n");
+
+    printf("This is  small game of guessing random numbers\n");
     printf("****************HERE**WE**GO***************\n");
     int number,guess,nguesses=1;
     srand(time(0));
